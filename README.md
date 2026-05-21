@@ -36,7 +36,7 @@ An interactive 3D visualization of qubit states using the Bloch Sphere represent
 ---
 
 ## 🌐 Live Demo
-(Will be added after deployment)
+https://bloch-sphere-visualizer-azure.vercel.app
 
 ---
 
