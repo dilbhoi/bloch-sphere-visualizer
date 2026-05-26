@@ -31,7 +31,6 @@ An interactive 3D visualization of qubit states using the Bloch Sphere represent
 
 ## 📸 Demo
 
-(Add screenshots here later)
 
 ---
 
